@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a64b88ae-3dce-4696-a418-528400588f15" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +34,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Java12Gradle" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Java12Gradle" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Java12Gradle" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -81,7 +72,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/olya/Progect_Idea_Java/Java12Gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
+  <component name="RunManager" selected="Gradle.Java12Gradle [clean]">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -195,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Java12Gradle [clean]" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
         <item itemvalue="Gradle.Java12Gradle [testClasses]" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldCashBackMoreBoundary" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldCashBackLessBoundary" />
-        <item itemvalue="Gradle.Java12Gradle [clean]" />
       </list>
     </recent_temporary>
   </component>
